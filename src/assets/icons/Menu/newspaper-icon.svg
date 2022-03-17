@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33.75" height="25.875" viewBox="0 0 33.75 25.875">
+  <g id="newspaper-icon" transform="translate(-1.125 -5.063)">
+    <path id="Path_302" data-name="Path 302" d="M6.188,5.063V27.282a1.407,1.407,0,0,1-2.813,0V10.688H1.125V27.282a3.66,3.66,0,0,0,3.656,3.656H31.219a3.66,3.66,0,0,0,3.656-3.656V5.063ZM32.626,27.282a1.408,1.408,0,0,1-1.406,1.406H8.156a3.637,3.637,0,0,0,.281-1.406V7.313H32.625Z" fill="#7b7b7b"/>
+    <path id="Path_303" data-name="Path 303" d="M20.813,9.563H10.688v11.25H20.813Zm-2.25,9H12.938v-6.75h5.625Z" fill="#7b7b7b"/>
+    <path id="Path_304" data-name="Path 304" d="M23.063,9.563h7.313v2.25H23.063Z" fill="#7b7b7b"/>
+    <path id="Path_305" data-name="Path 305" d="M23.063,14.063h7.313v2.25H23.063Z" fill="#7b7b7b"/>
+    <path id="Path_306" data-name="Path 306" d="M23.063,18.563h7.313v2.25H23.063Z" fill="#7b7b7b"/>
+  </g>
+</svg>
